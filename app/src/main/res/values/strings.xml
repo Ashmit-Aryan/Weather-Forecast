@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="pressure">Pressure:-</string>
+    <string name="humidity">Humidity:-</string>
+    <string name="temperature">Temperature:-</string>
+    <string name="wind_speed">Wind Speed:-</string>
+    <string name="sunset">Sunset:-</string>
+    <string name="sunrise">Sunrise:-</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="hourly_forecast">Hourly Forecast</string>
+    <string name="search_city">Search City</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="celcius">°С</string>
+    <string name="_5_day_s_weather_forecast">5 Day\'s Weather Forecast</string>
+
+</resources>
